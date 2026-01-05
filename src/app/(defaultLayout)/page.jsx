@@ -16,7 +16,7 @@ const Home = () => {
         <div className='home-page'>
             <Hero1
                 bgImg="/assets/images/hero-bg.png"
-                SubTitle="SOLUTEK IT SERVICES"
+                SubTitle="WEBZ MASTER IT SERVICES"
                 Title="The Beauty Behind<br>IT Services."
                 Content="Where your interests international networks intersect provid custom software solutions for any value software."
                 BtnText="EXPLORE MORE"
@@ -28,11 +28,11 @@ const Home = () => {
             <About1
                 MainImg="/assets/images/about-thumb.png"
                 ImgTitle="BEST IT SOLUTION"
-                SubTitle="SOLUTEK COMPANY"
+                SubTitle="WEBZ MASTER COMPANY"
                 Title="Essential IT Solutions For<br> Modern <span>Businesses.</span>"
-                Content="Monotonectally repurpose maintainable infrastruct whereas solutek in fermentum quis tempo sapien maximus design."
+                Content="Monotonectally repurpose maintainable infrastruct whereas Webz Master in fermentum quis tempo sapien maximus design."
                 listTitle="Cloud Based Solution"
-                BottomText="Monotonectally repurpose maintainable infrastruct whereas solutek in fermentum quis tempo sapien maximus design."
+                BottomText="Monotonectally repurpose maintainable infrastruct whereas Webz Master in fermentum quis tempo sapien maximus design."
                 BtnUrl="/about"
                 BtnText="EXPLORE MORE"
             ></About1>

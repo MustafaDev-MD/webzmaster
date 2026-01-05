@@ -60,7 +60,7 @@ const Project1 = ({bgImage,ClassAdd}) => {
                     <div className="col-lg-6">
                         <div className="section-title text-left">
                             <SectionTitle
-                                    SubTitle="SOLUTEK PROJECT"
+                                    SubTitle="WEBZ MASTER PROJECT"
                                     Title="Explore Our Recent <span>Projects.</span>"
                             ></SectionTitle>
                         </div>

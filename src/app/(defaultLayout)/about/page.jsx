@@ -11,9 +11,9 @@ const page = () => {
             <BreadCumb Title="About Us"></BreadCumb>
             <About4
                 MainImg="/assets/images/inner/about-us-thu.png"
-                SubTitle="SOLUTEK COMPANY"
+                SubTitle="WEBZ MASTER COMPANY"
                 Title="We Can Clients With The<br> About <span>Solution.</span>"
-                Content="Monotonectally repurpose maintainable infrastruct whereas solutek in fermentum quis tempo sapien maximus design."
+                Content="Monotonectally repurpose maintainable infrastruct whereas Webz Master in fermentum quis tempo sapien maximus design."
                 listTitle1="Best IT Solutions & Service"
                 listTitle2="24 Hour's Customer Service"  
                 BoxTitle1="826"

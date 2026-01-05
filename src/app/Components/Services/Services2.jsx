@@ -10,7 +10,7 @@ const Services2 = () => {
                     <div className="col-lg-12">
                         <div className="section-title text-center">
                             <SectionTitle
-                                    SubTitle="SOLUTEK SERVICES"
+                                    SubTitle="WEBZ MASTER SERVICES"
                                     Title="We Provide Exclusive Service<br> For Your Business</span>"
                                 ></SectionTitle>
                         </div>
