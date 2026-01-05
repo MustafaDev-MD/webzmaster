@@ -132,7 +132,7 @@ const Footer = () => {
                     <div className="row copyright">
                         <div className="col-lg-6 col-md-6 col-sm-6">
                             <div className="-copyright-text">
-                                <p>© Copyright 2024 By Solutek</p>
+                                <p>© Copyright 2024 By Webz Master</p>
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-6 col-sm-6">
