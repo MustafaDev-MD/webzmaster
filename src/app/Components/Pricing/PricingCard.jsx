@@ -1,11 +1,12 @@
 import Link from "next/link";
 
-const PricingCard = ({Price,PricePlan,FeatureList,BtnUrl,BtnText}) => {
+const PricingCard = ({Price,PricePlan,FeatureList,BtnUrl,BtnText,Service}) => {
     return (
         <div className="pricing-single-box">
             <div className="pricing-head">
                 <h1 className="priching-doller">{Price}</h1>
                 <h3 className="priching-title">{PricePlan}</h3>
+                {Service && <p className="pricing-service-label">{Service}</p>}
             </div>
             <div className="pricing-body">
                 <ul className="pricing-list">

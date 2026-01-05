@@ -25,9 +25,9 @@ const Counter = () => {
                         </div>
                         ))}
                     </div>
-                    <div className="counter-thumb">
+                    {/* <div className="counter-thumb">
                         <Image src="/assets/images/home-3/counter-thu.png" alt="img" width={285} height={187}   />
-                    </div>
+                    </div> */}
                 </div>
             </div>
     );
