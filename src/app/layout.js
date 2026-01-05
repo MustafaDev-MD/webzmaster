@@ -19,13 +19,13 @@ const poppins = Poppins({
 export const metadata = {
   title: {
     absolute: '',
-    default: 'Webz Master - Technology & IT Solution NextJS Template',
-    template: '%s | Webz Master - Technology & IT Solution NextJS Template',
+    default: 'Webz Master - Technology & IT Solution',
+    template: '%s | Webz Master - Technology & IT Solution',
   },
-  description: 'Webz Master - Technology & IT Solution NextJS Template',
+  description: 'Webz Master - Technology & IT Solution',
   openGraph: {
-    title: 'Webz Master - Technology & IT Solution NextJS Template',
-    description: 'Webz Master - Technology & IT Solution NextJS Template',
+    title: 'Webz Master - Technology & IT Solution',
+    description: 'Webz Master - Technology & IT Solution',
     image: '/openGraphImage.jpg',
   },
 };
